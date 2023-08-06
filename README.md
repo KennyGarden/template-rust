@@ -53,5 +53,5 @@ If you have any questions about FL0 or this template codebase please head on ove
 ## Issues
 Any issues or feature requests can be raised on the [Issues page](https://github.com/fl0zone/template-rust/issues) of this repo.
 
-## License
+## License 2
 This template repository is [MIT licensed](LICENSE).
